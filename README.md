@@ -1,0 +1,2 @@
+# JXShowMoreMediaView
+多图的展示view 可用于tableview collectionview
